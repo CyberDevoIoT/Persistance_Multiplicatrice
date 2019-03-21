@@ -20,4 +20,4 @@ Après avoir copié ce code, vous pourrez lancer python et démarrer le programm
 
 # Objectifs :
 
-Par la suite, pense pouvoir intégrer une société reconnaissant mes travaux, pour ensuite évoluer.
+Par la suite, je pense pouvoir intégrer une société reconnaissant mes travaux, pour ensuite évoluer.
